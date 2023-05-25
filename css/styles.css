@@ -1,0 +1,16 @@
+body{
+    /* removal of browser defaults and ensure the element is 100% of what i see */
+    margin: 0;
+    height: 100vh;
+
+    /* background image properties */
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    /* i want everything to be centered inside of body element*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
