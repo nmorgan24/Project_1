@@ -31,7 +31,7 @@ $.ajax("https://api.jikan.moe/v4/anime?q=")
 
 ### Details about Difficlties
 
-Fetching something from an API can was the most difficult because it involves dealing with authentication, setting up the right endpoints, and handling errors properly. It's like solving a puzzle where you need to understand the API's instructions and make sense of the data you receive.
+Fetching something from an API was the most difficult because it involves dealing with authentication, setting up the right endpoints, and handling errors properly. It's like solving a puzzle where you need to understand the API's instructions and make sense of the data you receive.
 
 
 ### Languages Used
