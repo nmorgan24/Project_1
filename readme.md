@@ -25,7 +25,7 @@ $.ajax("https://api.jikan.moe/v4/anime?q=")
 
 ### Mackup
 
-![Mockup Image](./img/Screenshot%202023-05-26%20083014.png)
+![Mockup Image](./img/Screenshot%202023-05-26%20185459.png)
 
 
 
