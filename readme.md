@@ -3,7 +3,7 @@ By Nyijia Morgan
 
 ### Project Description
 
-Introducing an innovative project that brings anime to life with a simple search.users can enter the name of any anime in the search bar, and in an instant, a vibrant image of the anime will appears, Immerse yourself in the world of anime and discover new visual wonders with every search.
+Introducing an innovative project that brings anime to life with a simple search. users can enter the name of any anime in the search bar, and in an instant, a vibrant image of the anime will appears, Immerse yourself in the world of anime and discover new visual wonders with every search.
 
 
 
