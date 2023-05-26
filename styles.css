@@ -4,13 +4,10 @@ body{
     height: 100vh;
 
     /* background image properties */
-    background-image: url("");
+    background-image: url("./img/backgroundd.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 
-    /* i want everything to be centered inside of body element*/
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
 }
